@@ -18,4 +18,4 @@ This program was created using Visual Studio 2019 with C++.
 
 * Allow a user to type in numbers for the length of each side
 * Allow a user to choose a shape
-* Add more shape classes and rules
+* Add more shape classes and rulesets
